@@ -1,14 +1,14 @@
-#Godot Story Generator Project
+# Godot Story Generator Project
 
-##Project Overview What's it for?
+## Project Overview What's it for?
 
-##Tech Stack
+## Tech Stack
 
 
-##Initial User Stories
+## Initial User Stories
 
-##Timeline
+## Timeline
 
-##Project Tracker
+## Project Tracker
 [GitHub Projects Page](https://github.com/users/LexBay/projects/2/views/1)
 
